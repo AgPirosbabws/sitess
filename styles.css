@@ -36,16 +36,16 @@ html {
 }
 
 .container--second {
-    background-image: url(./steptodown.com389102.jpg);
+    background-image: url(./OIG4.jpeg);
 }
 
 .container--third {
-    background-image: url(./image3.jpg);
+    background-image: url(./steptodown.com389102.jpg);
 }
 
 .container-texts {
     padding: 50px 0;
-    background-color: rgba(0,0,0,0.74118);
+    background-color: rgba(0,0,0,0.44118);
     color: #fff;
     text-align: center;
 }
